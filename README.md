@@ -1,3 +1,5 @@
+![skeletorgram-screenshot](https://user-images.githubusercontent.com/31767380/66200123-421b1780-e698-11e9-9580-86ea2666a165.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
